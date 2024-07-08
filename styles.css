@@ -1,0 +1,16 @@
+.body {
+    display: block;
+    margin: 0px;
+}
+
+.nav {
+    background-color: pink;
+    overflow: hidden;
+}
+
+.nav a {
+    float: right;
+    color: black;
+    text-align: right;
+    padding: 18px 20px;
+}
