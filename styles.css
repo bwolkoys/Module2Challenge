@@ -1,16 +1,41 @@
 .body {
     display: block;
-    margin: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 .nav {
     background-color: pink;
-    overflow: hidden;
+}
+
+.nav ul {
+    color: black;
+    padding: 0;
+    margin: 0; 
+    text-align: right;
+}
+
+.nav li {
+    display: inline;
+    padding: 20px;
 }
 
 .nav a {
-    float: right;
     color: black;
-    text-align: right;
-    padding: 18px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    background: rgb(123, 71, 79);
+}
+
+.box {
+    background-color: rgb(247, 217, 222);
+    border: 2px solid;
+    height: auto;
+    width: auto;
+    padding: 10px;
 }
