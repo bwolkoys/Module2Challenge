@@ -1,7 +1,7 @@
 .body {
     display: block;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 .header h1 {
@@ -47,8 +47,8 @@
 }
 
 .float-left {
-    float: left;
     margin-right: 25px;
+    float: left;
 }
 .About-Me {
     background-color: rgb(247, 217, 222);
@@ -66,10 +66,28 @@
     padding: 15px;
 }
 
+.gallery {
+    display: inline-block
+}
+
+.gallery:hover {
+    border: 3px solid rgb(123, 71, 79);
+}
+
+
+.gallery .description {
+    padding: 5px;
+}
+
 .Contact-Info {
     background-color: rgb(247, 217, 222);
     border: 2px solid;
     height: auto;
     width: auto;
     padding: 15px;
+
+}
+
+.footer {
+    text-align: center; 
 }
