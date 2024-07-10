@@ -1,10 +1,9 @@
 * {
-    background-color: rgb(248, 221, 225);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.body {
-
+body {
+    background-color: rgb(248, 221, 225);
     display: block;
     margin: 0px;
     padding: 0px;
@@ -26,6 +25,7 @@
     background-color: rgb(238, 187, 195);
     float: right;
     font-size: 18px;
+    height: 48px;
 }
 
 
@@ -120,4 +120,19 @@
 .footer {
     text-align: center; 
     font-size: 25px;
+}
+
+@media screen and (max-width: 820px) {
+    .container {
+        width: 100%;
+        flex-direction: column;
+    }
+    .Profile {
+        align-items: center;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+    }
 }
