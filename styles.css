@@ -13,8 +13,8 @@
 .header h1 {
     display: inline-block;
     text-align: left;
-    padding-left: 50px;
-    font-size: 40px;
+    padding-left: 6px;
+    font-size: 50px;
 }
 .header {
     padding-top: 10px;
@@ -56,17 +56,29 @@
     background: rgb(123, 71, 79);
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .profile pic {
-    position: relative;
-    margin-right: 250px;
+    max-width: 25%;
+    max-height: 15%
+    float: left;
 }
 
 .Welcome {
-    font-size: 30px;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 0%;
+    float: left;
 }
 
 .About-Me {
     background-color: rgb(248, 221, 225);
+    font-size: 18px;
     border: 2px solid;
     height: auto;
     width: auto;
@@ -75,6 +87,7 @@
 
 .My-Work {
     background-color: rgb(248, 221, 225);
+    font-size: 18px;
     border: 2px solid;
     height: auto;
     width: auto;
@@ -96,6 +109,7 @@
 
 .Contact-Info {
     background-color: rgb(248, 221, 225);
+    font-size: 18px;
     border: 2px solid;
     height: auto;
     width: auto;
@@ -105,4 +119,5 @@
 
 .footer {
     text-align: center; 
+    font-size: 25px;
 }
