@@ -19,3 +19,13 @@ AS AN employer
 - THEN I am taken to that deployed application
 - WHEN I resize the page or view the site on various screens and devices
 - THEN I am presented with a responsive layout that adapts to my viewport
+
+## Screenshots
+![Screenshot 2024-07-11 at 10 35 34 AM](https://github.com/bwolkoys/Module2Challenge/assets/172542684/986f022a-40d6-4699-bfd9-73110d0ace40) 
+- In this screensahot, it shows the beginning of the <body> section where I added mt header and the navigation bar with the # so when you click on the nav bar, it takes you to the right section.
+
+![Screenshot 2024-07-11 at 10 35 50 AM](https://github.com/bwolkoys/Module2Challenge/assets/172542684/e863714b-d4b2-42c4-8315-ef22d84d3880)
+- This section shows the "About me", "My work" and "Contact info" sections with the paragraphs, and image in the "my work" section that has a link to challenge 1 where we had to change the HTML to make it more readable, accessible, etc. I made a gallery class so that when I have more projects in the future, I can add them in this section to create a "gallery view."
+
+![Screenshot 2024-07-11 at 10 35 56 AM](https://github.com/bwolkoys/Module2Challenge/assets/172542684/03771bf4-e97e-408e-b962-993e3379fd47)
+- This section shows the contact-info and the link I added to "Bradyn-Wolkoys" that will take you to my linkedin page.
