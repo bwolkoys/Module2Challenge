@@ -1,3 +1,9 @@
+## Description
+
+- A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can't be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies.
+
+With these points in mind, in this Challenge you'll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you'll use during your job sea
+
 ## User Story
 
 AS AN employer
@@ -21,6 +27,7 @@ AS AN employer
 - THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshots
+
 ![Screenshot 2024-07-11 at 10 35 34 AM](https://github.com/bwolkoys/Module2Challenge/assets/172542684/986f022a-40d6-4699-bfd9-73110d0ace40) 
 - In this screensahot, it shows the beginning of the <body> section where I added mt header and the navigation bar with the # so when you click on the nav bar, it takes you to the right section.
 
@@ -32,6 +39,7 @@ AS AN employer
 
 
 ## Resources
+
 - Link to a youtube video I watched to relearn how to add images to my webpage and how to use different elements to section out my html: https://youtu.be/HGTJBPNC-Gw?feature=shared 
 - Link to a youtube video I used to figure out how to put my profile picture and next next to eachother instead of above and below each other: https://youtu.be/Q0KNxDpt71c?feature=shared 
 - Link to a webpage I used to figure out how to link a section to a navigation bar that is on the same page: https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html/ 
