@@ -31,7 +31,7 @@ AS AN employer
 - This section shows the contact-info and the link I added to "Bradyn-Wolkoys" that will take you to my linkedin page.
 
 
-##Resources
+## Resources
 - Link to a youtube video I watched to relearn how to add images to my webpage and how to use different elements to section out my html: https://youtu.be/HGTJBPNC-Gw?feature=shared 
 - Link to a youtube video I used to figure out how to put my profile picture and next next to eachother instead of above and below each other: https://youtu.be/Q0KNxDpt71c?feature=shared 
 - Link to a webpage I used to figure out how to link a section to a navigation bar that is on the same page: https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html/ 
